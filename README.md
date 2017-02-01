@@ -1,5 +1,5 @@
 # auto1liner
-A python script for generating *nux "one-liner" commands. It's useful for situations when you have a shell, but you're not on a TTY, or for whatever reason you can't use vi or nano, but you need to write a script to the remote system.
+A (completely useless) python script for generating *nux "one-liner" commands. It's useful for situations when you have a shell, but you're not on a TTY, or for whatever reason you can't use vi or nano, but you need to write a script to the remote system.
 
 # Example:
 
